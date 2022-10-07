@@ -1,1 +1,1 @@
-# MSFT Student Summit
+# Microsoft Student Summit
